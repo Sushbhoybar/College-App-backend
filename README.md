@@ -1,2 +1,2 @@
-# College-App-backend
+# College-App-backend [https://play.google.com/store/apps/details?id=com.sggs.sggs&pcampaignid=web_share]
 The College Digitalization App is a modern platform designed to streamline faculty-related tasks in educational institutions. It simplifies processes such as generating report cards, calculating attendance percentages, and uploading exam timetables, leveraging the latest technologies for improved efficiency and accuracy.
